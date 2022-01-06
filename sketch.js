@@ -35,4 +35,4 @@ function buttonPressed()
 }
 
 
- document.title = 'test';
+ document.title = 'Log In Tester';
